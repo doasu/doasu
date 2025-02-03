@@ -1,16 +1,17 @@
-## Hi there 👋
+# `% <README.md`
+This account exists solely for the purpose of contributing to projects.  
+Please visit [<img src="https://code.doasu.dev/assets/img/logo.svg" height=16px>Codelirium](https://code.doasu.dev/doasu) if you're here for my code.
 
-<!--
-**doasu/doasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> [![Please don't upload my code to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)  
+> Please DO NOT upload any of my code to GitHub. :)  
+> GitHub is a proprietary and commercial Microsoft product/service, which has centralised the once distributed `git` software.  
+> I think it's important for people to know that Microsoft GitHub not the only choice (or that they have a choice in the first place) for developing software.  
+> This is especially important for Free(libre) software.
+>
+> **I kindly ask you to use a platform that respects its users' rights, such as [<img src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg" width=16px> Codeberg](https://codeberg.org).**  
 
-Here are some ideas to get you started:
+<img src="https://sfconservancy.org/img/GiveUpGitHub.svg" width=20%>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More info:  
+https://sfconservancy.org/GiveUpGitHub/  
